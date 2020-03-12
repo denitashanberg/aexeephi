@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://osheethur.smartlumps.com/sitemap.xml
